@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Atualmente, nos sistemas conversacionais, dependemos amplamente de Modelos de Linguagem de Grande Escala pré-treinados. Esses modelos desempenham um papel vital em nossa capacidade de compreender e responder às consultas dos usuários, fornecendo respostas contextuais e relevantes. Eles são a espinha dorsal de nosso sistema, permitindo-nos codificar e processar conhecimento do mundo em seus parâmetros.
+Atualmente, nos sistemas conversacionais, dependemos amplamente de Modelos de Linguagem de Grande Escala pré-treinados. Esses modelos desempenham um papel vital em nossa capacidade de compreender e responder às consultas dos usuários, fornecendo respostas contextuais e relevantes. Eles são a espinha dorsal desses sistemas, permitindo-nos codificar e processar conhecimento do mundo em seus parâmetros.
 
 No entanto, enfrentamos um desafio crítico: a rápida obsolescência do conhecimento armazenado nesses modelos de linguagem devido às mudanças constantes no mundo real. À medida que o mundo evolui, as informações armazenadas nesses modelos podem se tornar desatualizadas, levando a respostas imprecisas ou inadequadas aos usuários. Isso é conhecido como "concept drift" e representa uma preocupação central para a relevância contínua de aplicativos conversacionais.
 
-Neste contexto, enfrentamos a tarefa crítica de superar o concept drift e manter a relevância do sistema conversacioanl. Esta proposta busca abordar esse desafio, introduzindo um sistema de Aprendizado Contínuo de Conhecimento (CKL) que permitirá a atualização constante dos modelos de linguagem pré-treinados, garantindo que o sistema continue fornecendo respostas precisas e contextualmente relevantes aos usuários, mesmo em face das mudanças rápidas do mundo real.
+Neste contexto, enfrentamos a tarefa crítica de superar o concept drift e manter a relevância do sistema conversacional. Esta proposta busca abordar esse desafio, introduzindo um sistema de Aprendizado Contínuo de Conhecimento (CKL) que permitirá a atualização constante dos modelos de linguagem pré-treinados, garantindo que o sistema continue fornecendo respostas precisas e contextualmente relevantes aos usuários, mesmo em face das mudanças rápidas do mundo real.
 
 ## Solução Proposta
 
