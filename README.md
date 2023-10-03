@@ -76,5 +76,4 @@ O CKL não apenas permitirá que nosso aplicativo forneça respostas mais precis
 
 ## Referências Bibliográficas.
 
-Joel Jang, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo, KAIST AI, LG AI Research. Towards Continual Knowlage Learning of Language Models. arXiv:2110.03215v4 [cs.CL] 24 May 2022
-https://arxiv.org/pdf/2110.03215.pdf
+JANG, Joel et al. Towards Continual Knowledge Learning of Language Models. 2022. Disponível em: https://arxiv.org/abs/2110.03215. Acesso em: 01/10/2023
